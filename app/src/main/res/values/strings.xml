@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">YouIn</string>
+    <string name="get_started">Get Started</string>
+    <string name="who_invited_you">Who invited you?</string>
+    <string name="privacy">By registering on YouIn, you accept our <b>Terms of Services and Privacy Policy</b></string>
+
+
+</resources>
